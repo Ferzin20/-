@@ -11,8 +11,8 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━━ ⊰
 
 global.owner = [ 
-['5492266466080', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
-['573026191480', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
+['528142067796', '𝓕𝓮𝓻 𝓑𝓸𝓽', true],
+['522811004916', '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿', true],
 ['593968585383'],
 ['5217294888993'],
 ['595992302861'],
@@ -90,26 +90,25 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Sticker WM ⋅.━━━━ ⊰
 
 global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.author = '𝓕𝓮𝓻 𝓑𝓸𝓽'
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.vs = '1.5.0'
-global.lb = '𝙏𝙝𝙚 𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
-global.yt = 'https://www.youtube.com/@TheLoliBot-MD'
-global.ig = 'https://www.tiktok.com/@thelolibot_md'
-global.md = 'https://github.com/elrebelde21/The-LoliBot-MD'
-global.fb = 'https://www.facebook.com/groups/872989990425789/'
+global.lb = '𝓕𝓮𝓻 𝓑𝓸𝓽'
+global.yt = 'https://www.youtube.com/channel/UCbEcdI6I28sRZtXQ3oH7TnA
+global.ig = 'https://www.tiktok.com/@fer_drip_'
+global.md = 'https://github.com/Ferzin20?tab=repositories'
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Actualización, información sobre el bot
-global.nn = 'https://chat.whatsapp.com/C6sxsP2ckrr2vxMKclOeCD' //Grupo 1
+global.nna = 'https://chat.whatsapp.com/CzjhS9GClaK4DySik7IYVX' //Actualización, información sobre el bot
+global.nn = 'https://chat.whatsapp.com/CzjhS9GClaK4DySik7IYVX' //Grupo 1
 global.nnn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 2
 global.nnnt = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo del Colaboracion
 global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
 global.nnntt = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
+global.nnnttt = 'https://chat.whatsapp.com/CzjhS9GClaK4DySik7IYVX' //enlace 𝓕𝓮𝓻 𝓑𝓸𝓽
 global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.asistencia = 'Wa.me/5492266466080' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/528142067796' //Dudas? escríbeme...
 
 //⊱ ━━━━━━━━━━━━━.⋅ Datos ⋅.━━━━━━━━━━━━━━ ⊰
 
@@ -130,8 +129,8 @@ global.exito = eg
 
 //⊱ ━━━━━.⋅ Información ⋅.━━━━ ⊰
 
-global.wm = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
-global.igfg = '𝑻𝒉𝒆 𝑳𝒐𝒍𝒊𝑩𝒐𝒕-𝑴𝑫'
+global.wm = '𝓕𝓮𝓻 𝓑𝓸𝓽'
+global.igfg = '𝓕𝓮𝓻 𝓑𝓸𝓽'
 global.wait = '*⌛ _Cargando..._ ▬▭▭▭▭▭▭*'
 global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
